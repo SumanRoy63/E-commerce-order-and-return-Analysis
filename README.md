@@ -15,8 +15,11 @@ The goal is to help reduce return rates, improve customer satisfaction, and opti
 Phase 1: Data Pipeline:
 
 -Clean raw Kaggle dataset
+
 -Normalize return reasons
+
 -Add synthetic refund status
+
 -Save processed dataset
 
 Phase 2: Exploratory Data Analysis (EDA):

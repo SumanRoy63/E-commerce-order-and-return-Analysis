@@ -12,31 +12,31 @@ The goal is to help reduce return rates, improve customer satisfaction, and opti
 
 📊Workflow
 
-Phase 1: Data Pipeline
+Phase 1: Data Pipeline:
 
 -Clean raw Kaggle dataset
 -Normalize return reasons
 -Add synthetic refund status
 -Save processed dataset
 
-Phase 2: Exploratory Data Analysis (EDA)
+Phase 2: Exploratory Data Analysis (EDA):
 -Visualize return rates by category
 
 -Analyze refund cycle times
 
 -Identify top return reasons
 
-Phase 3: Pattern Detection
+Phase 3: Pattern Detection:
 -Segment returns by region, customer segment, and price band
 
 -Detect root causes
 
-Phase 4: Predictive Modeling
+Phase 4: Predictive Modeling:
 -Logistic regression to predict probability of return
 
 -Evaluate with confusion matrix, ROC-AUC
 
-Phase 5: Dashboard
+Phase 5: Dashboard:
 -Interactive Streamlit dashboard
 
 -KPIs, charts, segmentation filters
